@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e6ab1901-e1a8-4187-95c7-cf4a9d883b2f" name="ShowXD" url="http://210.70.80.21/~s106021051">
+        <fileTransfer host="210.70.80.21" port="22" rootFolder="/home/s106021051/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

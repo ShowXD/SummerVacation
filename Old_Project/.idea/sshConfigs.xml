@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="210.70.80.21" id="e377b380-25fd-4ef4-80b7-8d9b1b7cd544" port="22" customName="ShowXD" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="210.70.80.21" id="fdcd1f21-5d61-4d76-b95b-4cb6f3ede14f" port="22" customName="ShowXD" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</project>

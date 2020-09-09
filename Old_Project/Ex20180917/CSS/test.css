@@ -1,0 +1,19 @@
+p {
+    color: #ffae46;
+    font-size: 20px;
+}
+
+body {
+    background-image: url("../Photo/background.jpg");
+}
+
+.button {
+    border: 1px solid #000000;
+    border-radius: 15px;
+    padding: 10px 20px 10px 20px;
+    margin: 50px;
+}
+
+.button:hover {
+    background-color: #ff2220;
+}

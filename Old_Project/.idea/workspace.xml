@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d663f199-44f3-4bc7-8302-49c99833bba1" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+    <execution>
+      <executable path="C:\ProgramData\ComposerSetup\bin\composer" />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+      <find>about</find>
+      <find>tion</find>
+      <find>clean</find>
+      <find>Man must explore, and this is</find>
+      <find>I believe every human has a finite</find>
+      <find>Login</find>
+      <find>Sign Up</find>
+      <find>Sign</find>
+      <find>MAP</find>
+      <find>wrapper</find>
+      <find>login</find>
+      <find>site-heading-lower</find>
+      <find>font-family</find>
+      <find>em</find>
+      <find>About our</find>
+      <find>wel</find>
+      <find>Users Behavior</find>
+      <find>out</find>
+      <find>修改失敗</find>
+      <find>action=&quot;profile_action.php</find>
+    </findStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1gVdJHdMEZ05TLOo2dSGlBwjIzl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Phpstorm\Ex20181126\startbootstrap-clean-blog-gh-pages" />
+      <recent name="D:\Phpstorm\Ex20181126" />
+      <recent name="D:\Phpstorm" />
+      <recent name="D:\Phpstorm\Final_topic\Login" />
+      <recent name="D:\Phpstorm\Final_topic\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Phpstorm\Final_topic" />
+      <recent name="D:\Phpstorm\Final_topic\Login" />
+      <recent name="D:\Phpstorm\Ex20181126" />
+      <recent name="D:\Phpstorm\Ex20181119" />
+      <recent name="D:\Phpstorm\Ex20181029" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration name="dashboard.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://210.70.80.21/~s106021051/Final_topic/dash_board/dashboard.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://210.70.80.21/~s106021051/Final_topic/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://210.70.80.21/~s106021051/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://210.70.80.21/~s106021051/Final_topic/Login/login.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_db.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Final_topic/Login/test_db.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.dashboard.php" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.php" />
+      <item itemvalue="JavaScript Debug.login.html" />
+      <item itemvalue="PHP Script.test_db.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="JavaScript Debug.dashboard.php" />
+        <item itemvalue="PHP Script.test_db.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d663f199-44f3-4bc7-8302-49c99833bba1" name="Default" comment="" />
+      <created>1536545723235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536545723235</updated>
+      <workItem from="1536545724610" duration="1737000" />
+      <workItem from="1536547905339" duration="1671000" />
+      <workItem from="1536549716792" duration="1791000" />
+      <workItem from="1536551529589" duration="14000" />
+      <workItem from="1537149006601" duration="188000" />
+      <workItem from="1537149211093" duration="827000" />
+      <workItem from="1537150639791" duration="1440000" />
+      <workItem from="1537152512728" duration="1847000" />
+      <workItem from="1537154443594" duration="1781000" />
+      <workItem from="1537156262417" duration="409000" />
+      <workItem from="1537186901120" duration="1820000" />
+      <workItem from="1537188766461" duration="1785000" />
+      <workItem from="1537190584521" duration="879000" />
+      <workItem from="1537192667728" duration="528000" />
+      <workItem from="1538356945642" duration="1733000" />
+      <workItem from="1538358709979" duration="1857000" />
+      <workItem from="1538360584695" duration="1792000" />
+      <workItem from="1538362532136" duration="1742000" />
+      <workItem from="1538364340213" duration="1793000" />
+      <workItem from="1538366366388" duration="103000" />
+      <workItem from="1538962149195" duration="1455000" />
+      <workItem from="1538963638886" duration="1793000" />
+      <workItem from="1538965451235" duration="1792000" />
+      <workItem from="1538967260943" duration="1266000" />
+      <workItem from="1538969087803" duration="1777000" />
+      <workItem from="1538970882774" duration="595000" />
+      <workItem from="1539264635268" duration="642000" />
+      <workItem from="1539273723783" duration="216000" />
+      <workItem from="1539524318671" duration="820000" />
+      <workItem from="1539528315343" duration="787000" />
+      <workItem from="1539530130465" duration="1816000" />
+      <workItem from="1539532209778" duration="386000" />
+      <workItem from="1539566433548" duration="1807000" />
+      <workItem from="1539568261185" duration="1374000" />
+      <workItem from="1539569653274" duration="1791000" />
+      <workItem from="1539571460996" duration="1843000" />
+      <workItem from="1539573330819" duration="1672000" />
+      <workItem from="1539575146409" duration="1193000" />
+      <workItem from="1540170886826" duration="1772000" />
+      <workItem from="1540172676484" duration="1797000" />
+      <workItem from="1540174501052" duration="1791000" />
+      <workItem from="1540176319120" duration="1888000" />
+      <workItem from="1540178744475" duration="794000" />
+      <workItem from="1540776486429" duration="1355000" />
+      <workItem from="1540779020093" duration="1786000" />
+      <workItem from="1540780829599" duration="1816000" />
+      <workItem from="1540782688733" duration="1772000" />
+      <workItem from="1540784475834" duration="1114000" />
+      <workItem from="1541317792681" duration="1620000" />
+      <workItem from="1541320123819" duration="1874000" />
+      <workItem from="1541322887210" duration="1356000" />
+      <workItem from="1541330263347" duration="1696000" />
+      <workItem from="1541332145055" duration="164000" />
+      <workItem from="1541357023521" duration="760000" />
+      <workItem from="1542590720730" duration="1773000" />
+      <workItem from="1542592520422" duration="1665000" />
+      <workItem from="1542594325275" duration="1794000" />
+      <workItem from="1542596238241" duration="1333000" />
+      <workItem from="1542598090660" duration="161000" />
+      <workItem from="1542598267806" duration="1793000" />
+      <workItem from="1542600077593" duration="146000" />
+      <workItem from="1543195221607" duration="1769000" />
+      <workItem from="1543197091301" duration="1409000" />
+      <workItem from="1543198914259" duration="1776000" />
+      <workItem from="1543200706707" duration="1794000" />
+      <workItem from="1543202516544" duration="2044000" />
+      <workItem from="1543204582849" duration="572000" />
+      <workItem from="1543237349376" duration="577000" />
+      <workItem from="1543722058339" duration="614000" />
+      <workItem from="1543726953685" duration="1308000" />
+      <workItem from="1543728760428" duration="1840000" />
+      <workItem from="1543730635983" duration="1148000" />
+      <workItem from="1543732448744" duration="1469000" />
+      <workItem from="1543761278820" duration="545000" />
+      <workItem from="1543803849075" duration="1514000" />
+      <workItem from="1543805614559" duration="281000" />
+      <workItem from="1543805911156" duration="205000" />
+      <workItem from="1543907543203" duration="424000" />
+      <workItem from="1544975421942" duration="230000" />
+      <workItem from="1545614624309" duration="1773000" />
+      <workItem from="1545616417028" duration="2333000" />
+      <workItem from="1545618946414" duration="1813000" />
+      <workItem from="1545620993654" duration="1792000" />
+      <workItem from="1545622803521" duration="1210000" />
+      <workItem from="1545746187263" duration="653000" />
+      <workItem from="1545896297849" duration="619000" />
+      <workItem from="1545975477350" duration="1505000" />
+      <workItem from="1545977279016" duration="1782000" />
+      <workItem from="1545979079133" duration="1796000" />
+      <workItem from="1545981423429" duration="1802000" />
+      <workItem from="1545983592068" duration="209000" />
+      <workItem from="1546005849660" duration="361000" />
+      <workItem from="1546006351371" duration="1443000" />
+      <workItem from="1546010384795" duration="1506000" />
+      <workItem from="1546493655426" duration="3397000" />
+      <workItem from="1546582914357" duration="1806000" />
+      <workItem from="1546616665182" duration="107000" />
+      <workItem from="1546660279953" duration="21442000" />
+      <workItem from="1546749001451" duration="30133000" />
+      <workItem from="1546824336180" duration="2660000" />
+      <workItem from="1554212714325" duration="280000" />
+      <workItem from="1556038503706" duration="261000" />
+      <workItem from="1556038861979" duration="1103000" />
+      <workItem from="1556263672539" duration="616000" />
+      <workItem from="1557935194506" duration="41000" />
+      <workItem from="1557935256016" duration="1069000" />
+      <workItem from="1558015754258" duration="889000" />
+      <workItem from="1558018561407" duration="854000" />
+      <workItem from="1558077522185" duration="608000" />
+      <workItem from="1558598659467" duration="503000" />
+      <workItem from="1558599735524" duration="335000" />
+      <workItem from="1558600227918" duration="599000" />
+      <workItem from="1563923149680" duration="115000" />
+      <workItem from="1598203621862" duration="13000" />
+      <workItem from="1599666405662" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598203633032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1598203633032" />
+  </component>
+</project>
